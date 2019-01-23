@@ -4,4 +4,8 @@ date: {}
 published: true
 ---
 
-# Ubuntu notes
+# Ubuntu Notes
+
+## Shortcuts
+
+* alt + \` (the key above Tab) - switch between instances of the current application
