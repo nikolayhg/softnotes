@@ -14,6 +14,8 @@ published: true
 
 ### Workspaces
 
+Use workspaces for different contexts: work, private, etc.
+
 * See your Keyboard shortcuts for moving windows to another workspace.
 * Configure the Ubuntu Dock to show windows only from the current workspace:
  * run `gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true`
