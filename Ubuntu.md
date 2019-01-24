@@ -10,6 +10,13 @@ published: true
 
 * alt + \` (the key above Tab) - switch between instances of the current application
 
+## Productivity
+
+### Workspaces
+
+* See your Keyboard shortcuts for moving windows to another workspace.
+* Configure the Ubuntu Dock to show windows only from the current workspace:
+ * run `gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true`
 
 ## Issues
 
