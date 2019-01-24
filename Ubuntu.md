@@ -12,6 +12,8 @@ published: true
 
 ## Productivity
 
+* [AutoKey](https://github.com/autokey/autokey) - desktop automation utility. Great for text autocompletion like `"brnn" -> "Best Regards, MyName"`
+
 ### Workspaces
 
 Use workspaces for different contexts: work, private, etc.
