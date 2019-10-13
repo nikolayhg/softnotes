@@ -32,3 +32,6 @@ Use workspaces for different contexts: work, private, etc.
 * Frozen:
   * single programm, mouse: https://askubuntu.com/a/4412
   * everything: https://askubuntu.com/a/36717 While holding `Alt` and the `SysReq (Print Screen)` keys, type slowly `REISUB`. Let a few seconds pass in between each keypress.
+
+* File System read-only:
+  * `sudo ntfsfix /dev/your_drive` and restart
