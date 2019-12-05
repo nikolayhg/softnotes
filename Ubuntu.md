@@ -22,6 +22,10 @@ Use workspaces for different contexts: work, private, etc.
 * Configure the Ubuntu Dock to show windows only from the current workspace:
  * run `gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true`
 
+## Screenshots
+
+* [Shutter](https://shutter-project.org/) - install with Edit functionality from another PPA: https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html
+
 ## Editors
 
 * [Sublime Text](https://www.sublimetext.com/) - layouts and full screen mode. Lots of packages
