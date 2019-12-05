@@ -26,6 +26,7 @@ Use workspaces for different contexts: work, private, etc.
 
 * [Shutter](https://shutter-project.org/) - install with Edit functionality from another PPA: https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html
   * Disadvantage: requires too many clicks for commonly used functionality
+* [Flameshot](https://flameshot.js.org/) - has most functionalities, but crashes sometimes (after first screenshot).
 
 ## Editors
 
