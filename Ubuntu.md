@@ -35,7 +35,7 @@ Use workspaces for different contexts: work, private, etc.
   
 ## System
 
-* Temperature:
+* Temperature ([Source1](https://askubuntu.com/a/854029)):
   * `paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\`
 
 ## Issues
