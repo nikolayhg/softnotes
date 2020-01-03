@@ -32,6 +32,11 @@ Use workspaces for different contexts: work, private, etc.
 
 * [Sublime Text](https://www.sublimetext.com/) - layouts and full screen mode. Lots of packages
   - Packages: [Diagram](https://packagecontrol.io/packages/Diagram), [PlainTasks](https://packagecontrol.io/packages/PlainTasks)
+  
+## System
+
+* Temperature:
+  * `paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\`
 
 ## Issues
 
