@@ -13,4 +13,4 @@ published: true
 ## Utils
 
 * [AutoHotKey](https://www.autohotkey.com/) - automation scripting language for Windows.
-* Set a windows always on top: `^SPACE::  Winset, Alwaysontop, , A`
+* Set a windows always on top: Add the following code to your AutoHotKey script: `^SPACE::  Winset, Alwaysontop, , A` . Then use Ctrl+Space to set/unset the current window on top.
