@@ -15,3 +15,7 @@ published: true
 * [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) - open source 2FA authentication. PIN, filter, tags, images. Better than Google Authenticator
 * [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - open source Video/YouTube player. No ads, download movie/audio, set default speed
 * [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - open source maps using OpenStreetMap (OSM) data. Can show public transport lines (trains, metros, bus).
+
+# Phones
+
+* [Librem 5](https://puri.sm/products/librem-5/) - Open Source OS [https://pureos.net/](PureOS), user-replaceable battery, jack, kill switches for WiFi, cellular, microphone and GPS.
