@@ -18,4 +18,5 @@ published: true
 
 # Phones
 
+* [List of open-source mobile phones](https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones)
 * [Librem 5](https://puri.sm/products/librem-5/) - Open Source OS [https://pureos.net/](PureOS), user-replaceable battery, jack, kill switches for WiFi, cellular, microphone and GPS.
