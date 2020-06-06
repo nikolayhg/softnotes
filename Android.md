@@ -16,6 +16,8 @@ published: true
 * [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - open source Video/YouTube player. No ads, download movie/audio, set default speed
 * [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - open source maps using OpenStreetMap (OSM) data. Can show public transport lines (trains, metros, bus).
 * [RedMoon](https://f-droid.org/en/packages/com.jmstudios.redmoon/) - open source filter out blue light at predefined schedule or when desired.
+* [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en_US) - add podcast URLs and download (all) podcasts for offline usage.
+
 
 # Phones
 
