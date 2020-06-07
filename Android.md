@@ -11,7 +11,7 @@ published: true
 # Android Apps
 
 * [OpenVPN for Android](https://f-droid.org/en/packages/de.blinkt.openvpn/) - open source VPN client. Connect on boot. [GitHub](https://github.com/schwabe/ics-openvpn)
-* [OpenBoard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/) - open source keyboard, no spying
+* [Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/) - open source keyboard, no spying, Adjustable keyboard height, dark theme, number row, swipe space and delete.
 * [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/) - open source 2FA authentication. PIN, filter, tags, images. Better than Google Authenticator
 * [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - open source Video/YouTube player. No ads, download movie/audio, set default speed
 * [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/) - open source maps using OpenStreetMap (OSM) data. Can show public transport lines (trains, metros, bus).
