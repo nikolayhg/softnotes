@@ -32,11 +32,18 @@ Use workspaces for different contexts: work, private, etc.
 
 * [Sublime Text](https://www.sublimetext.com/) - layouts and full screen mode. Lots of packages
   - Packages: [Diagram](https://packagecontrol.io/packages/Diagram), [PlainTasks](https://packagecontrol.io/packages/PlainTasks)
-  
+
 ## System
 
 * Temperature ([Source1](https://askubuntu.com/a/854029)):
   * `paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\`
+
+## Applications
+
+## YouTube DLP
+
+Download all audio tracks in a YT playlist "PPPPPPPPPPPPP":
+- `yt-dlp -x -o "%(playlist)s/%(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PPPPPPPPPPPPP"`
 
 ## Issues
 
